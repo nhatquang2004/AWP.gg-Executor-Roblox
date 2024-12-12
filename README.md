@@ -12,6 +12,7 @@ To get started with AWP.gg Executor, follow these simple steps:
 
 
 
+
 ![AWP.gg Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
